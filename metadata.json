@@ -1,0 +1,6 @@
+{
+  "name": "도봉플러스 클럽 회원 관리 시스템",
+  "description": "도봉플러스 클럽 배드민턴 동호회 회원 관리 시스템 - 카페24 Node.js 및 MySQL 기반 온보딩, 가족 회원 매칭, 기간 수납 및 CSV 대량 이관 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
